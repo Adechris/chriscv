@@ -14,18 +14,18 @@ export default [
         name:'School Registration Portal',
         link:'https://school-quiz-app.vercel.app/'
     },
-    {
-        id:2,
-        image:spacex2,
-        name:'Landing Page',
-        link:''
-    },
-    {
-        id:3,
-        image:spacex,
-        name:'Space X',
-        link:'https://space-x-three-gamma.vercel.app/'
-    },
+    // {
+    //     id:2,
+    //     image:spacex2,
+    //     name:'Landing Page',
+    //     link:''
+    // },
+    // {
+    //     id:3,
+    //     image:spacex,
+    //     name:'Space X',
+    //     link:'https://space-x-three-gamma.vercel.app/'
+    // },
     {
         id:4,
         image:'',
@@ -42,20 +42,20 @@ export default [
         id:6,
         image:commerce,
         name:'E-commerce',
-        link:''
+        link:'https://mcnichols.vercel.app/'
     },
-    {
-        id:7,
-        image:'',
-        name:'Quiz App',
-        link:''
-    },
-    {
-        id:8,
-        image:'',
-        name:'Calculator',
-        link:''
-    },
+    // {
+    //     id:7,
+    //     image:'',
+    //     name:'Quiz App',
+    //     link:''
+    // },
+    // {
+    //     id:8,
+    //     image:'',
+    //     name:'Calculator',
+    //     link:''
+    // },
     {
         id:9,
         image:'',
@@ -68,35 +68,35 @@ export default [
         name:'Laundry',
         link:'https://yinka.lojiksquaq.com.ng/'
     },
-    {
-        id:11,
-        image:'',
-        name:'Weather App',
-        link:''
-    },
-    {
-        id:12,
-        image:'',
-        name:'Todo List (CRUD)',
-        link:''
-    },
-    {
-        id:13,
-        image:'',
-        name:'Grading System',
-        link:''
-    },
-    {
-        id:14,
-        image:reg,
-        name:'CV Creator',
-        link:''
-    },
-    {
-        id:15,
-        image:cv,
-        name:'SignUp Page (Form Validation)',
-        link:''
-    },
+    // {
+    //     id:11,
+    //     image:'',
+    //     name:'Weather App',
+    //     link:''
+    // },
+    // {
+    //     id:12,
+    //     image:'',
+    //     name:'Todo List (CRUD)',
+    //     link:''
+    // },
+    // {
+    //     id:13,
+    //     image:'',
+    //     name:'Grading System',
+    //     link:''
+    // },
+    // {
+    //     id:14,
+    //     image:reg,
+    //     name:'CV Creator',
+    //     link:''
+    // },
+    // {
+    //     id:15,
+    //     image:cv,
+    //     name:'SignUp Page (Form Validation)',
+    //     link:''
+    // },
 
 ]
